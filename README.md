@@ -1,4 +1,4 @@
-#🏦💵Bank Account Simulation 
+🏦#Bank Account Simulation 
 📌 Project Overview
 
 This project is a Bank Account Simulation developed using Java OOP concepts.
